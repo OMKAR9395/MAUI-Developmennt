@@ -1,0 +1,12 @@
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\FlyoutPage.csproj.AssemblyReference.cache
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Vs_Code\MAUI-Learning\FlyoutPage\FlyoutPage\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\FlyoutPage.GeneratedMSBuildEditorConfig.editorconfig
