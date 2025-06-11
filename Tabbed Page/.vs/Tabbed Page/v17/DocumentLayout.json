@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Vs_Code\\MAUI-Learning\\Tabbed Page\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A1F761-4617-4538-B3B4-CDDC8DF3B486}|Tabbed Page\\Tabbed Page.csproj|d:\\vs_code\\maui-learning\\tabbed page\\tabbed page\\tabbed.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2A1F761-4617-4538-B3B4-CDDC8DF3B486}|Tabbed Page\\Tabbed Page.csproj|solutionrelative:tabbed page\\tabbed.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tabbed.xaml",
+              "DocumentMoniker": "D:\\Vs_Code\\MAUI-Learning\\Tabbed Page\\Tabbed Page\\Tabbed.xaml",
+              "RelativeDocumentMoniker": "Tabbed Page\\Tabbed.xaml",
+              "ToolTip": "D:\\Vs_Code\\MAUI-Learning\\Tabbed Page\\Tabbed Page\\Tabbed.xaml",
+              "RelativeToolTip": "Tabbed Page\\Tabbed.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T08:55:08.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

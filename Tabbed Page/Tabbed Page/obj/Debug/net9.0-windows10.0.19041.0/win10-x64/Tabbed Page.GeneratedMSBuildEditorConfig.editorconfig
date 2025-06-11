@@ -51,3 +51,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Tabbed_Page.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Vs_Code/MAUI-Learning/Tabbed Page/Tabbed Page/Tabbed.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tabbed_Page.Tabbed.xaml
+build_metadata.AdditionalFiles.TargetPath = Tabbed.xaml
+build_metadata.AdditionalFiles.RelativePath = Tabbed.xaml
